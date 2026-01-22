@@ -2,6 +2,7 @@
   "name": "serverlessfunctions",
   "version": "1.0.0",
   "main": "index.js",
+  "vercel": "C:\\Users\\santtine\\AppData\\Roaming\\npm\\vercel.cmd",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,4 +17,7 @@
   },
   "homepage": "https://github.com/Neosantti/serverlessfunctions#readme",
   "description": ""
+
+
+  
 }
